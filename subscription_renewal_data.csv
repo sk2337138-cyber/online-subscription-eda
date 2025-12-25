@@ -1,0 +1,16 @@
+customer_id,subscription_plan,tenure_months,monthly_fee,renewal_status,usage_hours,support_tickets
+C001,Basic,3,199,No,12,2
+C002,Premium,12,499,Yes,120,0
+C003,Standard,6,299,Yes,60,1
+C004,Basic,1,199,No,5,3
+C005,Premium,24,499,Yes,200,0
+C006,Standard,4,299,No,20,2
+C007,Basic,8,199,Yes,55,1
+C008,Premium,10,499,Yes,110,0
+C009,Standard,2,299,No,15,2
+C010,Basic,15,199,Yes,90,1
+C011,Premium,6,499,Yes,75,0
+C012,Standard,18,299,Yes,140,1
+C013,Basic,5,199,No,25,2
+C014,Premium,30,499,Yes,250,0
+C015,Standard,7,299,Yes,65,1
